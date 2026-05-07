@@ -24,8 +24,8 @@
 ---
 
 ## 🏗️ Technical Architecture
-
-MarketingAI Studio is a high-performance, containerized ecosystem designed for advanced AI orchestration and visual creative workflows.
+<!-- 
+MarketingAI Studio is a high-performance, containerized ecosystem designed for advanced AI orchestration and visual creative workflows. -->
 
 ### 🏛️ High-Level Blueprint
 *Overview of the core system flow and component relationships.*
